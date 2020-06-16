@@ -1,0 +1,15 @@
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Release\prjRightTriangle.frmMain.resources
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Release\prjRightTriangle.Resources.resources
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Release\prjRightTriangle.vbproj.GenerateResource.cache
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Release\prjRightTriangle.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Release\Pythagorean Theorem Calculator.exe.config
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Release\Pythagorean Theorem Calculator.exe.manifest
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Release\Pythagorean Theorem Calculator.application
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Release\Pythagorean Theorem Calculator.exe
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Release\Pythagorean Theorem Calculator.pdb
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Release\Pythagorean Theorem Calculator.xml
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Release\Pythagorean Theorem Calculator.exe.manifest
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Release\Pythagorean Theorem Calculator.application
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Release\Pythagorean Theorem Calculator.exe
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Release\Pythagorean Theorem Calculator.xml
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Release\Pythagorean Theorem Calculator.pdb

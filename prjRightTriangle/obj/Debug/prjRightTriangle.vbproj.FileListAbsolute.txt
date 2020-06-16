@@ -1,12 +1,15 @@
-D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Debug\prjRightTriangle.exe.config
-D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Debug\prjRightTriangle.exe
-D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Debug\prjRightTriangle.pdb
-D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Debug\prjRightTriangle.xml
-D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Debug\prjRightTriangle.vbprojAssemblyReference.cache
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Debug\Pythagorean Theorem Calculator.exe.config
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Debug\Pythagorean Theorem Calculator.exe.manifest
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Debug\Pythagorean Theorem Calculator.application
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Debug\Pythagorean Theorem Calculator.exe
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Debug\Pythagorean Theorem Calculator.pdb
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\bin\Debug\Pythagorean Theorem Calculator.xml
 D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Debug\prjRightTriangle.frmMain.resources
 D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Debug\prjRightTriangle.Resources.resources
 D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Debug\prjRightTriangle.vbproj.GenerateResource.cache
 D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Debug\prjRightTriangle.vbproj.CoreCompileInputs.cache
-D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Debug\prjRightTriangle.exe
-D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Debug\prjRightTriangle.xml
-D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Debug\prjRightTriangle.pdb
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Debug\Pythagorean Theorem Calculator.exe.manifest
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Debug\Pythagorean Theorem Calculator.application
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Debug\Pythagorean Theorem Calculator.exe
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Debug\Pythagorean Theorem Calculator.xml
+D:\Visual Studio\Rellon's Projects\prjRightTriangle\prjRightTriangle\obj\Debug\Pythagorean Theorem Calculator.pdb
