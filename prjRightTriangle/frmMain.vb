@@ -19,33 +19,38 @@
         'get input
         GetInputs()
         'compute
-        decC = (decA ^ 2 + decB ^ 2) ^ (1 / 2)
+        ComputeArea()
         'display output
         FormatOutputs()
     End Sub
 
+    Private Sub ComputeArea()
+        decC = (decA ^ 2 + decB ^ 2) ^ (1 / 2)
+    End Sub
+
     Private Sub GetInputs()
-        intDecimals = ProcessPrecision(Integer.Parse(txtDecimals.Text))
-        decA = ProcessAB(Decimal.Parse(txtA.Text))
-        decB = ProcessAB(Decimal.Parse(txtB.Text))
+        Integer.TryParse(txtDecimals.Text, intDecimals)
+        Decimal.TryParse(txtA.Text, decA)
+        Decimal.TryParse(txtB.Text, decB)
+        ProcessPrecision(intDecimals)
+        ProcessAB(decA)
+        ProcessAB(decB)
         FormatInputs()
     End Sub
 
-    Private Function ProcessAB(side As Decimal) As Decimal
+    Private Sub ProcessAB(ByRef side As Decimal)
         If side < 0 Then
             MsgBox("Sides A and B cannot be less than 0.")
-            Return 0
+            side = 0
         End If
-        Return side
-    End Function
+    End Sub
 
-    Private Function ProcessPrecision(numDecimals As Integer) As Integer
+    Private Sub ProcessPrecision(ByRef numDecimals As Integer)
         If numDecimals < 0 Then
             MsgBox("Number of decimal places cannot be less than 0.")
-            Return intPRECISION
+            numDecimals = intPRECISION
         End If
-        Return numDecimals
-    End Function
+    End Sub
 
     Private Sub textBox_LoseFocus(sender As Object, e As EventArgs) Handles txtDecimals.Leave, txtB.Leave, txtA.Leave
         GetInputs()

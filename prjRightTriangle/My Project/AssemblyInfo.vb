@@ -11,7 +11,7 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("Pythagorean Theorem Calculator")>
 <Assembly: AssemblyDescription("Calculator for getting the hypothenuse of a right triangle.")>
-<Assembly: AssemblyCompany("LuchTech")>
+<Assembly: AssemblyCompany("LuchVBNet")>
 <Assembly: AssemblyProduct("Pythagorean Theorem Calculator")>
 <Assembly: AssemblyCopyright("Copyright ©  2020")>
 <Assembly: AssemblyTrademark("")>
